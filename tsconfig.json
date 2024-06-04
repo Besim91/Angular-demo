@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+        "target": "es2015"
+
+    },
+}
+
+// Die Datei tsconfig.json wandelt den erstellten code immer in die Version um die oben angegebn wird
