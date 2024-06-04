@@ -1,0 +1,10 @@
+$link-color:red;
+
+
+a{
+    color: $link-color;
+    
+    &:hover{
+        color: rgba(255, 0, 0, 0.5);
+    }
+}
